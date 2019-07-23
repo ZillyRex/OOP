@@ -1,3 +1,6 @@
+# Wikipedia
+
+
 def partition(L: list, left: int, right: int) -> int:
     pivot = left
     for i in range(left, right):
